@@ -1,0 +1,7 @@
+echo "# lutfor" >> README.md
+git init
+git add README.md
+git commit -m "bitmart"
+git branch -M main
+git remote add origin https://github.com/Lutforlrl/lutfor.git
+git push -u origin main
